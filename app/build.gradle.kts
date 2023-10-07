@@ -9,4 +9,5 @@ dependencies {
     implementation(Dependencies.Components.appcompat)
     implementation(Dependencies.Components.material)
     implementation(project(":click"))
+    implementation(project(":privacy"))
 }

@@ -1,5 +1,6 @@
 @file:Suppress("UnstableApiUsage")
 
+include(":privacy")
 include(":click")
 
 
