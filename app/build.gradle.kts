@@ -10,4 +10,6 @@ dependencies {
     implementation(Dependencies.Components.material)
     implementation(project(":click"))
     implementation(project(":privacy"))
+    implementation(project(":thread"))
+    implementation(project(":bitmap"))
 }

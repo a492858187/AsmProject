@@ -1,5 +1,11 @@
 @file:Suppress("UnstableApiUsage")
 
+include(":bitmap")
+
+
+include(":thread")
+
+
 include(":privacy")
 include(":click")
 

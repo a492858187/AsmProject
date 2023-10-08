@@ -19,6 +19,7 @@ gradlePlugin {
 }
 
 dependencies {
+    implementation("androidx.privacysandbox.tools:tools-core:1.0.0-alpha06")
     val agpVersion = "8.0.2"
     val kotlinVersion = "1.8.22"
     implementation("com.android.tools.build:gradle:${agpVersion}")
